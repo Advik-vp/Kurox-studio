@@ -1,0 +1,27 @@
+node_modules
+dist
+build
+.venv
+apps/api/.venv
+hello to studio.c++
+__pycache__
+*.pyc
+.pytest_cache
+.mypy_cache
+.ruff_cache
+.env
+.env.local
+*.egg-info
+.expo
+.turbo
+.DS_Store
+var/storage
+apps/api/var
+coverage
+*.log
+.idea
+.vscode
+pnpm-debug.log
+web-build
+ios/Pods
+*.tsbuildinfo

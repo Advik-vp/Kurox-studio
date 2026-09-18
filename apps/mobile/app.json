@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "Kurox",
+    "slug": "kurox",
+    "scheme": "kurox",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "ios": { "supportsTablet": true, "bundleIdentifier": "studio.kurox.mobile" },
+    "android": { "package": "studio.kurox.mobile" },
+    "plugins": ["expo-secure-store"]
+  }
+}

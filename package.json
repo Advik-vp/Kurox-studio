@@ -1,0 +1,12 @@
+{
+  "name": "kurox",
+  "private": true,
+  "packageManager": "pnpm@9.12.0",
+  "scripts": {
+    "dev:web": "pnpm --filter @kurox/web dev",
+    "dev:mobile": "pnpm --filter @kurox/mobile start",
+    "build:web": "pnpm --filter @kurox/web build",
+    "typecheck": "pnpm -r typecheck",
+    "lint": "pnpm -r lint"
+  }
+}
